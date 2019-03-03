@@ -1,0 +1,86 @@
+@import
+url('https://fonts.googleapis.com/css?family=Raleway:400');
+;
+
+* {
+	box-sizing: border-box;
+}
+
+
+body {
+margin: 0;
+font-family: 'Raleway' sans-serif;
+text-align: center;
+}
+
+img {
+	max-width: 100%
+	height:;
+}
+
+/*header
+====================================
+*/
+
+header {
+	position: absolute; 
+	left: 0;
+	right: 0;
+	margin-top: 1em;
+}
+
+nav ul {
+	margin:0
+	padding:0
+	list-style: none;
+}
+
+nav li {
+	display: inline-block;
+	margin: 1em;
+}
+
+nav a {
+	font-weight: 900;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: .8rem;
+	padding: .5em;
+	/*color: #98FB98;*/
+}
+
+nav a:hover,
+nav a:focus {
+	color: #DDD;
+}
+
+
+.nav-menu {
+	background-color: black;
+	color: white;
+}
+
+.link-text {
+	color: white;
+	font-weight: bold;
+}
+
+.social-media-buttons {
+	padding: 50 px;
+}
+
+.a2a_kit {
+	padding: 50 px;
+}
+
+/*
+
+ home-hero
+============================ 
+*/
+
+.home-hero {
+	background: url("https://wallpapercave.com/wp/70Sl9OW.jpg" no-repeat;
+	background-size: 100% 100%;
+	height: 200px;
+} 
